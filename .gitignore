@@ -19,6 +19,9 @@ data/raw/**/*.csv
 data/raw/**/*.pdf
 data/raw/**/*.zip
 
+# Keep small manually transcribed evidence tables reproducible
+!data/raw/**/*_image_transcription.csv
+
 # Temporary files
 data/interim/*.tmp
 data/interim/*.bak

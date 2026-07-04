@@ -1,0 +1,52 @@
+﻿scope,row_key,total,sum_industries,gap,requires_review,source_file,note
+全国年度,全国-2005,5647823,5647823,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2006,6068912,6068912,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2007,6495064,6495064,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2008,7214683,7214661,22,True,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2009,8003868,8003868,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2010,8754588,8754588,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2011,9593729,9593729,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2012,10616530,10616528,2,True,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2013,11258282,11258282,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,2013年截图注释说明不包括金融业等部分数据；金融业留空
+全国年度,全国-2014,13701440,13702440,-1000,True,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2015,15729199,15729199,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2016,18191382,18191381,1,True,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2017,22009092,22009092,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2018,23481046,23481046,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,截图注释说明2018年数据经第四次全国经济普查资料修订
+全国年度,全国-2019,25280211,25280211,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2020,29389255,29389255,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2021,32866972,32866972,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2022,37169634,37169634,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+全国年度,全国-2023,35014905,35014905,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,截图注释说明2023年数据经第五次全国经济普查资料修订
+全国年度,全国-2024,37782288,37782288,0,False,data/raw/official_statistics/legal_person_units_industry_year_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,北京市-2024,1316531,1316531,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,天津市-2024,459260,459260,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,河北省-2024,1752840,1752840,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,山西省-2024,856442,856442,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,内蒙古自治区-2024,508823,508823,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,辽宁省-2024,981169,981169,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,吉林省-2024,419340,419340,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,黑龙江省-2024,460648,460648,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,上海市-2024,787899,787899,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,江苏省-2024,3131838,3131838,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,浙江省-2024,2520399,2520999,-600,True,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,安徽省-2024,1567920,1567920,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,福建省-2024,1490896,1490896,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,江西省-2024,928429,928429,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,山东省-2024,3212822,3212822,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,河南省-2024,2365518,2365518,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,湖北省-2024,1671573,1671573,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,湖南省-2024,1197290,1197290,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,广东省-2024,4989249,4989249,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,广西壮族自治区-2024,737553,737553,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,海南省-2024,195109,195109,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,重庆市-2024,814520,814520,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,四川省-2024,1563222,1563222,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,贵州省-2024,659659,659459,200,True,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,云南省-2024,875490,875490,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,西藏自治区-2024,101316,101316,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,陕西省-2024,1015414,1015414,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,甘肃省-2024,501642,501642,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,青海省-2024,121068,121068,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,宁夏回族自治区-2024,141229,141229,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
+2024省级地区,新疆维吾尔自治区-2024,437180,437180,0,False,data/raw/official_statistics/legal_person_units_province_industry_2024_image_transcription.csv,从截图《1-5 分地区按主要行业分法人单位数》人工转录
